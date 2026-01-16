@@ -19,7 +19,6 @@ I also specialise in translating **advanced analytical techniques**, including *
 
 ### Recent Projects
 - Hybrid ML architectures for stock price forecasting  
-- Prediction of Diabetes using Machine Learning  
 - NHS activity and performance dashboards supporting **bed capacity and patient flow management**
 
 I am passionate about making data **clear, actionable, and impactful** for both technical and non-technical stakeholders.
